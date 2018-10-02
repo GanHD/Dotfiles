@@ -1,0 +1,53 @@
+[options]
+font = Inconsolata  14
+allow_bold = true
+audible_bell = false
+visible_bell = false
+urgent_on_bell = true
+clickable_url = true
+scrollback_lines = 32767
+search_wrap = true
+cursor_blink = on
+cursor_shape = ibeam
+browser = chromium
+dynamic_title = true
+[colors]
+# special
+foreground      = #645240
+foreground_bold = #645240
+cursor          = #645240
+background      = #f5eeeb
+
+# black
+color0  = #3b3228
+color8  = #7e705a
+
+# red
+color1  = #cb6077
+color9  = #cb6077
+
+# green
+color2  = #beb55b
+color10 = #beb55b
+
+# yellow
+color3  = #f4bc87
+color11 = #f4bc87
+
+# blue
+color4  = #709b16
+color12 = #709b16
+
+# magenta
+color5  = #a89bb9
+color13 = #a89bb9
+
+# cyan
+color6  = #6591c4
+color14 = #6591c4
+
+# white
+color7  = #d0c8c6
+color15 = #f5eeeb
+
+
